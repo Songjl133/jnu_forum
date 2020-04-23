@@ -8,9 +8,6 @@ import org.springframework.context.annotation.Bean;
 
 import com.github.pagehelper.PageHelper;
 
-/**
- * git测试
- */
 @SpringBootApplication
 public class JnuForumApplication {
 
